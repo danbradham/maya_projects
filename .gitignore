@@ -1,0 +1,4 @@
+
+# Ignore fluid caches for now
+
+**/cache/nCache/fluid
